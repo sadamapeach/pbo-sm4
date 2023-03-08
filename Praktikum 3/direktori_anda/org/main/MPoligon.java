@@ -3,7 +3,8 @@
 * Tanggal	: 8 Maret 2023
 * Penulis	: Oktaviana Sadama Nur Azizah
 * NIM		: 24060121130060
-* Deskripsi	: Driver class untuk poligon dan persegi panjang
+* Deskripsi	: Driver class untuk poligon, persegi panjang,
+		  dan segitiga
 **/
 
 package org.main;
