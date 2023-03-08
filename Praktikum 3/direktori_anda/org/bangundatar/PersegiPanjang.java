@@ -4,7 +4,7 @@
 * Penulis	: Oktaviana Sadama Nur Azizah
 * NIM		: 24060121130060
 * Deskripsi	: Representasi dari objek persegi panjang,
-			  turunan kelas poligon
+		  turunan kelas poligon
 **/
 
 package org.bangundatar;
@@ -16,7 +16,7 @@ public class PersegiPanjang extends Poligon {
 	
 	public PersegiPanjang(double panjang, double lebar, int jumlahSisi) {
 		this.panjang 	= panjang;
-		this.lebar		= lebar;
+		this.lebar	= lebar;
 		this.jumlahSisi = jumlahSisi;
 	}
 	
