@@ -14,8 +14,8 @@ public class Segitiga extends Poligon {
 	private double alas, tinggi;
 	
 	public Segitiga(double alas, double tinggi, int jumlahSisi) {
-		this.alas		= alas;
-		this.tinggi		= tinggi;
+		this.alas	= alas;
+		this.tinggi	= tinggi;
 		this.jumlahSisi = jumlahSisi;
 	}
 	
