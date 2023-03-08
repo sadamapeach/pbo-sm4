@@ -8,18 +8,26 @@
 
 public class OperasiTitik{
 	
-	public void refleksiSumbuX(Titik titik) {
+	private void refleksiSumbuX(Titik titik) { // Harus Private
 		double y;
 		y = titik.getOrdinat();
 		y *= -1;
 		titik.setOrdinat(y);
 	}
 	
-	public void refleksiSumbuY(Titik titik) {
+	private void refleksiSumbuY(Titik titik) { // Harus Private
 		double x;
 		x = titik.getAbsis();
 		x *= -1;
 		titik.setAbsis(x);
+	}
+	
+	public Titik refleksiX(Titik titik){
+		// TODO 1
+	}
+	
+	public Titik refleksiY(Titik titik){
+		// TODO 2
 	}
 }
 
