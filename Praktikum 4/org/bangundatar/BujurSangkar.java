@@ -4,7 +4,7 @@
 * Penulis	: Oktaviana Sadama Nur Azizah
 * NIM		: 24060121130060
 * Deskripsi	: Representasi dari objek bujur sangkar,
-			  turunan kelas poligon
+		  turunan kelas poligon
 **/
 
 package org.bangundatar;
