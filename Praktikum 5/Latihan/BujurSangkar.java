@@ -3,8 +3,8 @@
 * Tanggal	: 26 Maret 2023
 * Penulis	: Oktaviana Sadama Nur Azizah
 * NIM		: 24060121130060
-* Deskripsi	: Kelas yang membuat implementasi metode 
-			  abstrak pada bangun datar
+* Deskripsi	: Kelas yang membuat implementasi metode abstrak 
+		  pada bangun datar
 **/
 
 public class BujurSangkar extends BangunDatar {
