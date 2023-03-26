@@ -4,7 +4,7 @@
 * Penulis	: Oktaviana Sadama Nur Azizah
 * NIM		: 24060121130060
 * Deskripsi	: Kelas yang mengimplementasikan cara menghitung
-			  luas bujur sangkar
+		  luas bujur sangkar
 **/
 
 import java.util.Scanner;
