@@ -14,10 +14,9 @@ import org.bangunruang.Kubus;
 public class MKubus {
 	public static void main(String[] args) {
 		BujurSangkar bujursangkar = new BujurSangkar(4);
-		// TODO Gunakan method hitungLuasAlas untuk mencari luas permukaan kubus
-		System.out.println("Luas Permukaan Kubus dengan panjang sisi 4 satuan : "+bujursangkar.hitungLuas());
-		
 		Kubus kubus = new Kubus(bujursangkar);
+		
+		System.out.println("Luas Permukaan Kubus dengan panjang sisi 4 satuan : "+kubus.hitungLuasAlas());
 		System.out.println("Volume Kubus dengan panjang sisi 4 satuan : "+kubus.hitungVolume());
 	}
 }
