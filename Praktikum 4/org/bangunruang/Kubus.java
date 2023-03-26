@@ -21,4 +21,9 @@ public class Kubus {
 		double sisi = permukaan.getSisi();
 		return sisi * sisi * sisi;
 	}
+	
+	public double hitungLuasAlas() {
+		double sisi = permukaan.getSisi();
+		return sisi * sisi;
+	}
 }
