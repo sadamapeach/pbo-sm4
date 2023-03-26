@@ -4,7 +4,7 @@
 * Penulis	: Oktaviana Sadama Nur Azizah
 * NIM		: 24060121130060
 * Deskripsi	: Kelas implementasikan IArea berupa cara 
-			  menghitung luas lingkaran
+		  menghitung luas lingkaran
 **/
 
 import static java.lang.Math.PI;
