@@ -27,5 +27,4 @@ public class MBarang {
 	    System.out.println("Mohon maaf, stok barang tidak mencukupi.");
         }
     }
-
 }
