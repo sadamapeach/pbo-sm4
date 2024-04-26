@@ -1,2 +1,2 @@
-# Pemrograman Berorientasi Objek
-Repository PBO | Semester 4
+# pbo-sm4
+Repository Pemrograman Berorientasi Objek | Semester 4
