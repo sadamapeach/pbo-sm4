@@ -1,3 +1,2 @@
-# PraktikumPBOA_24060121130060
-Oktaviana Sadama Nur Azizah
-24060121130060
+# Pemrograman Berorientasi Objek
+Repository PBO | Semester 4
